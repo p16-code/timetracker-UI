@@ -1,0 +1,42 @@
+<svg id="Group_228" data-name="Group 228" xmlns="http://www.w3.org/2000/svg" width="616.255" height="616.255" viewBox="0 0 616.255 616.255">
+  <g id="event" transform="translate(0 0)">
+    <path id="Path_639" data-name="Path 639" d="M489.423,590.191H0V128H616.255V463.359Zm0,0" transform="translate(0 26.064)" fill="#e4edfb"/>
+    <path id="Path_640" data-name="Path 640" d="M0,128H616.255v77.032H0Zm0,0" transform="translate(0 26.064)" fill="#d7e1f2"/>
+    <path id="Path_641" data-name="Path 641" d="M102.516,77.032H64V19.258a19.258,19.258,0,0,1,38.516,0Zm0,0" transform="translate(13.032)" fill="#bfc9d1"/>
+    <path id="Path_642" data-name="Path 642" d="M454.516,77.032H416V19.258a19.258,19.258,0,1,1,38.516,0Zm0,0" transform="translate(84.707)" fill="#bfc9d1"/>
+    <path id="Path_643" data-name="Path 643" d="M406.625,406.625V533.457L533.457,406.625Zm0,0" transform="translate(82.798 82.798)" fill="#c8d5e8"/>
+    <path id="Path_644" data-name="Path 644" d="M616.255,182.806H0V86.516A38.518,38.518,0,0,1,38.516,48H577.739a38.518,38.518,0,0,1,38.516,38.516Zm0,0" transform="translate(0 9.774)" fill="#ff7761"/>
+  </g>
+  <g id="Rectangle_123" data-name="Rectangle 123" transform="translate(467.438 277.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="255" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="254" fill="none"/>
+  </g>
+  <g id="Rectangle_131" data-name="Rectangle 131" transform="translate(188.438 277.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="40" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="39" fill="none"/>
+  </g>
+  <g id="Rectangle_125" data-name="Rectangle 125" transform="translate(467.438 351.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="255" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="254" fill="none"/>
+  </g>
+  <g id="Rectangle_130" data-name="Rectangle 130" transform="translate(188.438 351.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="40" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="39" fill="none"/>
+  </g>
+  <g id="Rectangle_126" data-name="Rectangle 126" transform="translate(467.438 425.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="255" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="254" fill="none"/>
+  </g>
+  <g id="Rectangle_129" data-name="Rectangle 129" transform="translate(188.438 425.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="38" height="40" stroke="none"/>
+    <rect x="0.5" y="0.5" width="37" height="39" fill="none"/>
+  </g>
+  <g id="Rectangle_127" data-name="Rectangle 127" transform="translate(467.438 499.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="37" height="255" stroke="none"/>
+    <rect x="0.5" y="0.5" width="36" height="254" fill="none"/>
+  </g>
+  <g id="Rectangle_128" data-name="Rectangle 128" transform="translate(188.438 499.679) rotate(90)" fill="#c8d5e8" stroke="#707070" stroke-width="1">
+    <rect width="37" height="40" stroke="none"/>
+    <rect x="0.5" y="0.5" width="36" height="39" fill="none"/>
+  </g>
+</svg>

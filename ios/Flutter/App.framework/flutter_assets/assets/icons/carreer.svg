@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.623" height="25.806" viewBox="0 0 25.623 25.806">
+  <g id="carreer" transform="translate(-1.812)">
+    <path id="Path_529" data-name="Path 529" d="M392.049,15.537l-5.767-1.621v4.5l5.767-1.621A.656.656,0,0,0,392.049,15.537Z" transform="translate(-365.092 -13.215)" fill="#fc6b55"/>
+    <path id="Path_530" data-name="Path 530" d="M392.015,42.239l-.688-.193a.724.724,0,0,1-.113.042l-4.932,1.386v1.657l5.733-1.611A.665.665,0,0,0,392.015,42.239Z" transform="translate(-365.092 -39.927)" fill="#fc534e"/>
+    <path id="Path_531" data-name="Path 531" d="M378.946,9.887a.389.389,0,0,1-.389-.389V.389a.389.389,0,0,1,.779,0V9.5A.389.389,0,0,1,378.946,9.887Z" transform="translate(-357.756 0)" fill="#a64c31"/>
+    <path id="Path_532" data-name="Path 532" d="M362.9,173.475H357.73a.4.4,0,0,0-.4.4v16.659h5.57a.4.4,0,0,0,.4-.4V173.878A.4.4,0,0,0,362.9,173.475Z" transform="translate(-337.596 -164.731)" fill="#fa9801"/>
+    <path id="Path_533" data-name="Path 533" d="M244.795,258.3h-5.57a.4.4,0,0,0-.4.4v12.384h5.973Z" transform="translate(-225.064 -245.282)" fill="#fba615"/>
+    <path id="Path_534" data-name="Path 534" d="M126.29,343.127h-5.57a.4.4,0,0,0-.4.4v8.108h5.973Z" transform="translate(-112.532 -325.833)" fill="#fcb143"/>
+    <path id="Path_535" data-name="Path 535" d="M7.785,427.953H2.215a.4.4,0,0,0-.4.4v3.43a.4.4,0,0,0,.4.4h5.57Z" transform="translate(0 -406.383)" fill="#fbbe66"/>
+    <path id="Path_536" data-name="Path 536" d="M362.889,173.475H361v14.346a.41.41,0,0,1-.41.41h-3.268v2.306h5.563a.41.41,0,0,0,.41-.41V173.885A.41.41,0,0,0,362.889,173.475Z" transform="translate(-337.595 -164.731)" fill="#f88604"/>
+    <path id="Path_537" data-name="Path 537" d="M238.822,466.242h5.973v2.306h-5.973Z" transform="translate(-225.064 -442.742)" fill="#fa9801"/>
+    <path id="Path_538" data-name="Path 538" d="M1.812,466.242v1.9a.41.41,0,0,0,.41.41H7.785v-2.306Z" transform="translate(0 -442.742)" fill="#fcb143"/>
+    <path id="Path_539" data-name="Path 539" d="M120.317,466.242h5.973v2.306h-5.973Z" transform="translate(-112.532 -442.742)" fill="#fba615"/>
+  </g>
+</svg>
