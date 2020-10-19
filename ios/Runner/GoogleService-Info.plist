@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>870574797516-072ck9dhjnhmvoql68ermhe84f9ckkas.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.870574797516-072ck9dhjnhmvoql68ermhe84f9ckkas</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>870574797516-j72g9b0iv20rpoj65v0f8bscgigoro8s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmOaTP0IgY_n5qvGZQhyE1nvqq4v3bBXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>870574797516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zinemind.engageathondev</string>
+	<key>PROJECT_ID</key>
+	<string>engageathon-25e03</string>
+	<key>STORAGE_BUCKET</key>
+	<string>engageathon-25e03.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:870574797516:ios:87d39a23deb864cc3ac869</string>
+	<key>DATABASE_URL</key>
+	<string>https://engageathon-25e03.firebaseio.com</string>
+</dict>
+</plist>
